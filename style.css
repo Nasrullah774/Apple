@@ -1,0 +1,157 @@
+
+.header{
+width: 100%;
+background-color: black;
+height: 70px;
+margin: 0px 0px 0px 0px !important;
+}
+
+.logo img{
+width: 50px;
+height: 50px;
+float: left;
+margin: 10px 20px  0px 20px ;
+}
+
+.menu ul{
+margin: 0px;
+display: inline-block;
+list-style: none;
+}
+.menu ul li{
+display: inline;
+line-height: 70px;
+padding: 30px;
+}
+.menu ul li a{
+text-decoration: none;
+color: #d7d7d7;
+}
+.menu ul li a:hover{
+color: white;
+}
+.bag {
+width: 70px;
+height: 70px;
+float: right;
+display: inline;
+}
+.bag img{
+width: 50px;
+height: 50px;
+margin-top: 0px; 
+}
+.belowheader{
+float: left;
+width: 100%;
+height: 50px;
+background-color: #0071e3;
+text-align: center;
+}
+
+.para p{
+color: white;
+}
+.bottom{
+float: left;
+text-align: center;
+background-color: #d7d7d7;
+width: 100%;
+height: 50px; 
+}
+.bottom p{
+color: white;
+}
+
+.iphone12{
+text-align: center;
+width: 100%;
+}
+.iphone12 img{
+width: 400px;
+height: 300px;
+}
+.newiphone{
+color: white;
+text-align: center;
+width: 100%;
+min-height: 500px;
+background-color: black;
+}
+.newiphone img{
+width: 400px;
+}
+.newiphone a{
+margin-top: 40px;
+margin-left: 20px;
+}
+.ipad{
+width: 100%;
+text-align: center;
+min-height:500px;
+background-color: white; 
+}
+.ipad img{
+width: 700px;
+}
+.racial {
+width: 100%;
+text-align: center;
+float: left;
+}
+.equity{
+text-align: center;
+width: 40%;
+min-height:400px;
+color: black;
+float: left;
+}
+.equity img{
+width: 200px;
+height: 300px;
+}
+.watch{
+color: black;
+text-align: center;
+width: 40%;
+min-height: 400px;
+float: left;
+}
+.watch img{
+width: 300px;
+height: 300px;
+float: left;
+margin-top: -50px;
+margin-left: 60px;
+}
+.black{
+width: 100%;
+float: left;
+text-align: center;
+}
+.music{
+float: left;
+width: 50%;
+min-height: 400px;
+}
+.par ol li {
+color:#373739;
+}
+.par p{
+color: #373739;
+}
+.footer{
+width: 100%;
+min-height: 400px;
+float: left;	
+}
+.footer ul {
+float: left;
+}
+.footer ul li {
+list-style: none;
+}
+.footer .column{
+float: left;
+width: 20%;
+}
